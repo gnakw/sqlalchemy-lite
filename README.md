@@ -152,6 +152,7 @@ db = Engine(
 
 本项目采用 **MIT** 协议。
 
+---
 
 ## Acknowledgment
 
